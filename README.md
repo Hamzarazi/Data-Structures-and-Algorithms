@@ -1,1 +1,1 @@
-this is repository for data structure and algorithms.
+This is a repository for Data Structure and Algorithms.
